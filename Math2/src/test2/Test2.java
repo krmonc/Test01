@@ -6,7 +6,7 @@ public class Test2 {
 	public static void swapFunction(int a, int b) {
         System.out.println("In swapFunction at the begining: a = " + a + " , b = " + b);
  
-        // Swap n1 with n2
+        // Swap n1 with n2   ..
         int c = a;
         a = b;
         b = c;
